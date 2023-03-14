@@ -9,4 +9,14 @@ Todo REST API samples using ASP.NET Core minimal APIs. It showcases:
 
 https://github.com/dotnet/installer#build-status
 
+### Install .NET HTTPS development certificate
 
+```bash
+dotnet dev-certs https --trust
+```
+
+### Run the app
+
+```bash
+dotnet run
+```
